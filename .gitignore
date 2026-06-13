@@ -1,0 +1,10 @@
+# Raw dataset (large) and generated indexes (rebuilt with build_indexes.py).
+data/
+indexes/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.uv/
+*.egg-info/
